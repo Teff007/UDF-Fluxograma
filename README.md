@@ -17,6 +17,11 @@ Primeiro trabalho da disciplina Algoritmo e Pensamento Computacional.
 11 - Sair
 
 # 1 - Adição
+O fluxograma representa um algoritmo para somar dois números inteiros. Primeiro, o programa inicia e mostra uma mensagem informando que será realizada uma soma. Em seguida, são declaradas três variáveis inteiras: a, b e c, sendo a responsável pelo primeiro número, b pelo segundo e c pelo resultado.
+
+Depois, o programa pede ao usuário o primeiro valor e utiliza “Ler a” para armazená-lo na variável a. Em seguida, pede o segundo valor e utiliza “Ler b” para armazená-lo em b. Após receber os dois números, o programa realiza o processamento através da instrução c ← a + b, que significa somar a e b e guardar o resultado em c.
+
+Por fim, o programa exibe na tela a mensagem informando o resultado da soma e chega ao “Fim”, encerrando a execução. Portanto, o fluxo segue a lógica básica de entrada → processamento → saída: recebe dois números, realiza a soma e apresenta o resultado.
 
 # 2 - Subtração
 Este módulo implementa um algoritmo simples que realiza a subtração entre dois números reais informados pelo usuário, exibindo o resultado ao final da execução. Ele faz parte de um projeto maior, representando a lógica de uma das operações aritméticas básicas do sistema.
